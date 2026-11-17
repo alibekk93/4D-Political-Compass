@@ -107,6 +107,9 @@ const politicians = [
     { name: 'Adolf Hitler', economic: 8, authoritarian: 10, traditional: 10, globalist: -10, wikipediaUrl: 'https://en.wikipedia.org/wiki/Adolf_Hitler' },
     { name: 'Nestor Makhno', economic: -10, authoritarian: -10, traditional: -8, globalist: 6, wikipediaUrl: 'https://en.wikipedia.org/wiki/Nestor_Makhno' },
     { name: 'Alexander Lukashenko', economic: -3, authoritarian: 10, traditional: 10, globalist: -9, wikipediaUrl: 'https://en.wikipedia.org/wiki/Alexander_Lukashenko' },
+    { name: 'David Seymour', economic: 8, authoritarian: -4, traditional: -2, globalist: 3, wikipediaUrl: 'https://en.wikipedia.org/wiki/David_Seymour_(politician)' },
+    { name: 'John Howard', economic: 6, authoritarian: 5, traditional: 7, globalist: -2, wikipediaUrl: 'https://en.wikipedia.org/wiki/John_Howard' },
+    { name: 'Pierre Elliott Trudeau', economic: -6, authoritarian: 0, traditional: -8, globalist: 3, wikipediaUrl: 'https://en.wikipedia.org/wiki/Pierre_Trudeau' },
 ];
 
 // Remove duplicate entries (e.g., 'Xi Jinping', 'Volodymyr Zelenskyy')
